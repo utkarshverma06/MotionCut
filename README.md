@@ -1,2 +1,2 @@
 # MotionCut
-Python Internship
+Python Programming Internship
