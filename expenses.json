@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 100.0,
+        "description": "Food",
+        "category": "Food",
+        "date": "2025-03-01"
+    },
+    {
+        "amount": 120.0,
+        "description": "Party",
+        "category": "Entertainment",
+        "date": "2025-03-02"
+    },
+    {
+        "amount": 500.0,
+        "description": "Bank Withdraw",
+        "category": "College",
+        "date": "2025-03-01"
+    }
+]
